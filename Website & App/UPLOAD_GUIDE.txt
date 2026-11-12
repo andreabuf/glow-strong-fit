@@ -1,0 +1,10 @@
+Glow Strong Fit - GitHub Pages deployment files
+
+The files in this ZIP are laid out for the ROOT of your GitHub Pages repository.
+Do not upload the ZIP itself or put the contained dev folder inside an existing dev folder.
+
+For a safe update now: upload ONLY dev/index.html to the repository path dev/index.html, leaving beta and root untouched.
+
+To clean up existing nested folders, first verify that https://glowfitstrong.com/dev/ works, then remove obsolete dev/dev only after backing it up.
+
+Note: dev and beta use the same Supabase backend. Use a separate test account for dev.
